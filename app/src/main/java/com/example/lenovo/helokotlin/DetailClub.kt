@@ -25,6 +25,7 @@ class DetailClub : AppCompatActivity() {
 
         verticalLayout{
             backgroundColor = Color.WHITE
+            padding = dip(5)
             gravity = Gravity.CENTER_HORIZONTAL
 
             imgimageView  =
@@ -41,7 +42,8 @@ class DetailClub : AppCompatActivity() {
                                 height = dip(30)){topMargin = dip(3)}
             deskTextView =
                     textView(){
-                        textAlignment = View.TEXT_ALIGNMENT_INHERIT
+                        textAlignment = View.TEXT_ALIGNMENT_CENTER
+                        padding = dip(5)
                     }. lparams(
                             width = wrapContent
                     ){topMargin = dip(9)}
