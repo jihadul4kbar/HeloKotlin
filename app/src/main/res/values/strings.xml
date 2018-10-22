@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aplikasiku</string>
+    <string name="app_name">Aplikasi Bola</string>
     <string-array name="club_name">
         <item>Barcelona FC</item>
         <item>Real Madrid FC</item>
@@ -23,7 +23,7 @@
     </array>
 
     <string-array name="club_detail">
-        <item>Barcelona adalah</item>
+        <item>Barcelona FC Club  bola yang berasal dari </item>
         <item>Madrid adalah</item>
         <item>Bayer adalah</item>
         <item>City adalah</item>
