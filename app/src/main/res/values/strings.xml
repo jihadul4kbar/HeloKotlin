@@ -23,13 +23,13 @@
     </array>
 
     <string-array name="club_detail">
-        <item>Barcelona FC adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol dan pelatihnya adalah Ernesto Valverde </item>
-        <item>Madrid adalah</item>
-        <item>Bayer adalah</item>
-        <item>City adalah</item>
-        <item>MU adalah</item>
-        <item>Chelsea adalah</item>
-        <item>ACM adalah</item>
-        <item>Arsenal adalah</item>
+        <item>Barcelona FC adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol dan dilatih oleh Ernesto Valverde </item>
+        <item>Real Madrid FC adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol dan dilatih oleh Julen Lopetegui</item>
+        <item>Bayern Munchen FC adalah sebuah klub olahraga Jerman yang berbasis di München, Bavaria dan dilatih oleh Säbener Strasse</item>
+        <item>Manchester City FC adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester dan dilatih oleh Josep Guardiola</item>
+        <item>Manchester United FC adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris dan dilatih oleh Jose Mourinho</item>
+        <item>Chelsea FC adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London dan dilatih oleh Maurizio Sarri</item>
+        <item>AC Milan FC adalah sebuah klub sepak bola Italia yang berbasis di Milan, Lombardia dilatih oleh Gennaro Gattuso</item>
+        <item>Arsenal FC adalah  klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London dan dilatih oleh Unai Emery</item>
     </string-array>
 </resources>
